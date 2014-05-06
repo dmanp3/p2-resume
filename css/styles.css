@@ -1,6 +1,38 @@
 /* Your Website Styles */
+body {
+	background: #F0E9CC;
+}
 
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	color: #222728;
+}
 
+h2 {
+	font-family: 'Montserrat', sans-serif;
+	color: #222728;
+}
+
+hr {
+	color: #E85B55;
+	height: 1px;
+	background-color: #E85B55;
+}
+
+h3 {
+	font-family: 'Montserrat', sans-serif;
+	color: #222728;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+	color: #222728;
+}
+
+li {
+	font-family: 'Raleway', sans-serif;
+	color: #222728;
+}
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
